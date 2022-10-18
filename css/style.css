@@ -57,6 +57,6 @@ body {
     .container {
         height: 100vh;
         max-height: 600px;
-        flex-direction: column;
+        flex-wrap: wrap;
     }
 }
